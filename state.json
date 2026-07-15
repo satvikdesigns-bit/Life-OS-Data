@@ -53,16 +53,12 @@
         "title": "Validate secure body payload routing",
         "status": "completed",
         "priority": "high"
+      },
+      {
+        "id": "cuet-error-review"
       }
     ]
   },
-  "pendingActions": [
-    {
-      "target": "tasks",
-      "payload": {
-        "id": "cuet-error-review"
-      }
-    }
-  ],
+  "pendingActions": [],
   "fcmToken": "ex_jxnDVeOu0Z0DwGQFwmV:APA91bHRjaebzZSbtBIMA_2YHuzCoUR_CI_Dm12dQ8_I9foqdGRmdoQmbhH2bSaw7Ens11BAUmDlQOiJlroMY2X9u-9woabY3MPG8D3nCvHPRUgH_0BKS18"
 }
