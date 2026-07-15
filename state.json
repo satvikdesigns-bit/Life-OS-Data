@@ -64,12 +64,6 @@
       }
     ]
   },
-  "pendingActions": [
-    {
-      "action": "delete",
-      "targetTaskId": "cuet-error-review",
-      "description": "Remove CUET error tracking review from Success Commerce Classes"
-    }
-  ],
+  "pendingActions": [],
   "fcmToken": "ex_jxnDVeOu0Z0DwGQFwmV:APA91bHRjaebzZSbtBIMA_2YHuzCoUR_CI_Dm12dQ8_I9foqdGRmdoQmbhH2bSaw7Ens11BAUmDlQOiJlroMY2X9u-9woabY3MPG8D3nCvHPRUgH_0BKS18"
 }
